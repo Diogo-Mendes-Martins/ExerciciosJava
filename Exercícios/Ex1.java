@@ -10,6 +10,3 @@ public class Ex1 {
 }
 
 
-/*1 classe abriga metodos, lógica de prog, parametros, objetos e variaveis.
-
-2*/
